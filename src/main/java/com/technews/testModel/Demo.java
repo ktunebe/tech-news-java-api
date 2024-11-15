@@ -1,4 +1,4 @@
-package com.technews.technews.testModel;
+package com.technews.testModel;
 
 import java.util.Objects;
 
